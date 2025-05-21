@@ -1,0 +1,3 @@
+Game by: Parsa Emamjomeh
+For: CS50 FINAL PROJECT
+GitHub: https://github.com/Parsa-Emamjomeh
